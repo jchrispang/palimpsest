@@ -27,6 +27,8 @@ If you use our code in your research, please cite us as follows (will be updated
 
 J.C. Pang, K.M. Aquino, P.A. Robinson, T.C. Lacy, M.M. Schira, Biophysically based method to deconvolve spatiotemporal neurovascular signals from fMRI data, Journal of Neuroscience Methods, 308, 6-20, 2018.
 
+Original repository from https://github.com/BrainDynamicsUSYD/BrainPalimpsest
+
 # Other references related to this work
 
 J.C. Pang, P.A. Robinson, K.M. Aquino, N. Vasan, Effects of astrocytic dynamics on spatiotemporal hemodynamics: Modeling and enhanced data analysis, NeuroImage 147, 114-153, 2017.
